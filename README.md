@@ -2,15 +2,8 @@
 It will show you download buttons above the pusctures in chat plus it has also button for download all iif is are images in one message 
 
 
-____________________________________________CODE_____________________________________________________________
-
-
-
-
-
-
-
-
+____________________________________________ 
+<script>------CODE for copy ---------->
 
 (function(){
   if (window.igdl_msg_v3) { console.info('IGDL v3 už běží. Použij igdl.cleanup() nebo igdl.stop()'); return; }
